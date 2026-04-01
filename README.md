@@ -16,6 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreerajGaikwad&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-blob:https://in.pinterest.com/c99492fc-dd93-409c-a505-47ceedd72d74
+(https://in.pinterest.com/c99492fc-dd93-409c-a505-47ceedd72d74)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
