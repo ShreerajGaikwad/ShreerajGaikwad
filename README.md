@@ -1,3 +1,6 @@
+
+![Uploading download.gif…]()
+
 # 💫 About Me:
 🔧 System Engineer at Tata Consultancy Services (TCS)<br>⚙️ Working on Spring → Spring Boot migration and modernizing enterprise applications<br>🌐 Building scalable REST APIs and backend services<br>🐞 Strong experience in debugging, production issue resolution, and system optimization<br>🗄️ Working with MySQL, SQL Server, and database design<br>🤝 Collaborating with cross-functional teams to deliver reliable solutions<br>📈 Passionate about improving performance, writing clean code, and solving real-world problems
 
